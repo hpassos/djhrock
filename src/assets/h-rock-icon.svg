@@ -1,13 +1,8 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo opcional (remova se preferir transparente) -->
-  <rect width="32" height="32" fill="none" />
+  <!-- Letra "H" -->
+  <path d="M6 6 V26 M10 16 H14 M14 6 V26" stroke="#000" stroke-width="2" stroke-linecap="round" fill="none" />
   
-  <!-- Letra "H" estilizada -->
-  <path d="M6 6 V26 M10 16 H14 M14 6 V26" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+  <!-- Letra "R" normal -->
+  <path d="M18 6 V26 M18 6 H24 C26 6 26 12 24 12 H18 M22 12 L26 26" stroke="#000" stroke-width="2" stroke-linecap="round" fill="none" />
   
-  <!-- Letra "R" estilizada com onda sonora -->
-  <path d="M18 6 V16 C18 20 20 22 22 22 H24 M18 16 H22 M22 16 V26" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
-  
-  <!-- Detalhe de onda sonora (opcional) -->
-  <path d="M26 12 V14 M28 10 V16 M30 8 V18" stroke="#ffffff" stroke-width="1" stroke-linecap="round" />
 </svg>
