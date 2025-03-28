@@ -72,11 +72,10 @@ function App() {
         
         <div className="relative z-10 text-center px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
-            DJ NOME
+            H-ROCK
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
-            Versatilidade e energia em cada batida - Do techno ao hip-hop, 
-            criando momentos únicos na pista
+            Do grave ao groove, minha música é o pulso que incendeia seu evento
           </p>
           <a
             href="#contact"
@@ -155,14 +154,15 @@ function App() {
             <div>
               <h2 className="text-4xl font-bold mb-6">Sobre Mim</h2>
               <p className="text-gray-300 mb-6">
-                Com mais de uma década de experiência, minha jornada como DJ começou nas festas underground
-                de São Paulo. Hoje, minha versatilidade me permite transitar entre diferentes gêneros,
-                do tech-house ao hip-hop, sempre mantendo a pista em movimento.
+                H-ROCK nasceu nas vibrações do Rio de Janeiro, onde o som ganhou vida.
+                Com sets dançantes de house music, tech-house, hip-hop, techno e outros,
+                já conquistei 10 mil ouvintes no YouTube criando uma comunidade de apaixonados por música,
+                levando energia pura às pistas."
+
+
               </p>
               <p className="text-gray-300">
-                Influenciado por grandes nomes da cena eletrônica e do hip-hop, desenvolvi um estilo único
-                que combina batidas envolventes com transições suaves, criando uma experiência musical
-                memorável para qualquer ocasião.
+                Inspirado pelo house music groovado, forjei um estilo que é adrenalina pura: batidas que hipnotizam e transições que incendiam o público.
               </p>
             </div>
           </div>
