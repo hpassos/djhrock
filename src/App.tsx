@@ -18,7 +18,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex-shrink-0">
               <span className="text-2xl font-bold bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
-                DJ NOME
+                DJ H-ROCK
               </span>
             </div>
             
@@ -242,7 +242,7 @@ function App() {
       <footer className="bg-black py-8 border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 DJ NOME. Todos os direitos reservados.</p>
+            <p>&copy; 2025 DJ H-ROCK. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
